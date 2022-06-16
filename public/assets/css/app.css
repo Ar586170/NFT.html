@@ -2270,7 +2270,7 @@ body.dark .header-menu .header-link:not(:last-child) {
     border: none;
     opacity: 1;
     font-family: 'DM Sans', sans-serif;
-    font-size: 40px;
+    font-size: 20px;
     font-weight: 700;
     line-height: 64px;
     width: auto;
