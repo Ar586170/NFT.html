@@ -1,0 +1,74 @@
+/*--------------------------------------
+Template Name: Vitax
+Template URL: https://www.abctechweb.com/html/vitax
+Description: Vitax Bootstrap HTML5 Template
+Author: Abctechweb
+Author URL: https://www.abctechweb.com 
+Version: 1.0.0
+
+========================================   
+CSS INDEX
+========================================
+|___ Default Styles
+| |___ Variables
+| |___ Reset
+| |___ Typography
+
+| |___ Forms 
+| |___ Spacing 
+| |___ Classes 
+|
+|___ Elements Styles
+| |___ Back To Top
+| |___ Button
+| |___ Pagination 
+| |___ Range Slider 
+| |___ Section
+| |___ Select 2
+| |___ Slick 
+|
+|___Template Styles
+| |___ About Us
+| |___ Banner
+| |___ Brand
+| |___ Call To Action
+| |___ Common Pages
+| |___ Contact
+| |___ FAQ
+| |___ Poster
+| |___ Pricing Plan
+| |___ Process
+| |___ Progress
+| |___ Project
+| |___ Service
+| |___ Shop
+| |___ Team
+| |___ Testimonial
+| |___ Why Choose
+| |___ Widget
+|
+|___Blocks Styles
+| |___ Header Styles
+| |___ Blog Styles
+| |___ Footer Styles
+|
+--------------------------------------*/
+
+/*======================================
+1. Default Styles 
+========================================*/
+
+@import "helpers/mixins";
+@import "variables";
+@import "common";
+@import "helpers/reset";
+@import "modificators";
+@import "blocks/button";
+@import "components/header";
+@import "components/banner1";
+@import "components/section-1";
+@import "components/popular";
+@import "components/hot";
+@import "components/footer";
+
+
