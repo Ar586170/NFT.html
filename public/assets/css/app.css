@@ -2488,6 +2488,11 @@ body.dark .header-menu .header-link:not(:last-child) {
     color: #23262F;
 }
 
+.popular .slick-slide {
+    height: auto;
+    padding: 0 16px;
+}
+
 .footer {
     border-top: 1px solid #E6E8EC;
 }
